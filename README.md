@@ -1,6 +1,6 @@
 Working Full Stack Java Project 
 
-Tech Stack: Java, MySQL, Spring Boot
+Tech Stack: Java, MySQL, Spring Boot, MySQL, BCrypt 
 
 Login & Registration with user authentication and validations.  
 
